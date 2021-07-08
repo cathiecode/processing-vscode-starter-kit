@@ -11,6 +11,7 @@ git clone https://github.com/cathiecode/vscode-pde-starter
 ``` 
 2. Rename `application.pde` to your `your_application_name.pde`.
 3. Replace `application` with your application name in every file. (You can use the search and replace tool of VSCode.)
+3. Replace `processing-java` in `build_and_run.ps1` with your `processing-java` path. (You will find it in your processing IDE directory.)
 3. Ctrl+Shift+B to Build to run!
 4. If you want, you can distribute the `your_application_name` directory as a Processing sketch.
 
