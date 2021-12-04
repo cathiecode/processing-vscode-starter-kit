@@ -7,7 +7,7 @@
 ## Usage
 1. Clone this repository
 ```
-git clone https://github.com/cathiecode/vscode-pde-starter
+git clone https://github.com/cathiecode/processing-vscode-starter-kit
 ``` 
 1. Rename `application.pde` to your `your_application_name.pde`.
 1. Replace `application` with your application name in every file. (You can use the search and replace tool of VSCode.)
